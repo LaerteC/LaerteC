@@ -10,30 +10,9 @@
  
  
  
- ```                           __________
-                              /          |
-                            /            |
-                            \    \\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |===========,'
-```
 
 
-### Tenho q Melhorar 😄 ⬇ !
+
 <img alt="LaerteC github stats" src="https://github-readme-stats.vercel.app/api?username=LaerteC&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 
@@ -47,4 +26,4 @@ _____________|','   ///_/-------------/   |
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-![](ofihung.gif)
+
