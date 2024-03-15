@@ -6,7 +6,7 @@
 
 
 **Meu Nome é Laerte Souza, sou um aficionado por tecnologias; ficção, mundos disruptivos k , futuros intergalácticos kk:+1:.**
- <details> Gosto muito da linguagem Java ,estudo à uns 2 anos e faço estágio desenvolvendo com Java Web. Embora aqui no meu GitHub possa ter linguagem de marcação e estilização, pois é imprescindível para o mundo web. A grande maioria dos repositórios são particulares , projetos pessoais.</details>
+ <details> Gosto muito da linguagem Java ,estudo à uns 5 anos e hoje sou Analista de Sistemas ,  desenvolvendo sistemas com Java Web e seus framework tais como Spring e Quarkus. Embora aqui no meu GitHub possa ter linguagem de marcação e estilização, pois é imprescindível para o mundo web. A grande maioria dos repositórios são particulares , projetos pessoais.</details>
  
  
  
